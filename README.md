@@ -10,4 +10,4 @@ npm install
 
 
 -----------------------------------
-*Find on "**HussainArif12**" 's GitHub*
+*Found on "**HussainArif12**" 's GitHub*
